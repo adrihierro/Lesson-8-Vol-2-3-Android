@@ -1,0 +1,56 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\aadri\\.gradle\\daemon\\8.13\\com.example.android.materialme.app-mergeDebugResources-31:\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\aadri\\.gradle\\caches\\8.13\\transforms\\e347da50d62a51f898d986fbdeda3609\\transformed\\material-1.9.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.android.materialme.app-mergeDebugResources-31:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\aadri\\.gradle\\caches\\8.13\\transforms\\e347da50d62a51f898d986fbdeda3609\\transformed\\material-1.9.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\aadri\\Desktop\\MaterialMe-Starter\\app\\src\\main\\res\\values-w600dp-land\\integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "49",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "110",
+                        "endColumns": "49",
+                        "endOffsets": "155"
+                    }
+                }
+            ]
+        }
+    ]
+}
